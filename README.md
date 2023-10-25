@@ -4,9 +4,8 @@ It's Yi Yang's GitHub profile.
 
 # Who am I?
 
-- Indie Hacker.
+- Indie developer
 - Founder of [Makecraft Studio](https://github.com/MakecraftStudio) (One-person company)
-- Graduated in Computer Science
-- I like One Piece!
+- Fan of One Piece
 
 ![OnePiece](https://static.makecraft.studio/OnePiece.jpeg)
