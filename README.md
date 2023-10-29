@@ -1,8 +1,4 @@
-# Hi 👋
-
-It's Yi Yang's GitHub profile.
-
-# Who am I?
+# Yi
 
 - Indie developer
 - Founder of [Makecraft Studio](https://github.com/MakecraftStudio) (One-person company)
