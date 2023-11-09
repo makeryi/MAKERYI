@@ -1,4 +1,4 @@
-# Yi
+# Yi Yang
 
 - Indie developer
 - Founder of [Makecraft Studio](https://github.com/MakecraftStudio) (One-person company)
